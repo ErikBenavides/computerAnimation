@@ -5,3 +5,5 @@
 ## Erik Benavides Del Valle
 
 ## Proyecto de animación
+
+![Robot](./robot.png)
