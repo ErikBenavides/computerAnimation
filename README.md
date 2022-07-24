@@ -6,4 +6,7 @@
 
 ## Proyecto de animación
 
+## ve la animación completa en 
+https://www.youtube.com/watch?v=bfyTr1iLHGU
+
 ![Robot](./robot.png)
